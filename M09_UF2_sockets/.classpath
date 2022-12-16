@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="M09_UF2_sockets/src"/>
+	<classpathentry kind="lib" path="M09_UF2_sockets/library/apache-commons-net.jar"/>
+	<classpathentry kind="lib" path="M09_UF2_sockets/library/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="M09_UF2_sockets/library/commons-net-3.0.1.jar"/>
+	<classpathentry kind="output" path="M09_UF2_sockets/bin"/>
+</classpath>
