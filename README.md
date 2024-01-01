@@ -3,17 +3,7 @@
 
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=realkimmy.realkimmy" alt="kw214" /> </p>
 
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kw214" alt="kw214" /></a> </p>
 
-
-- 🔭 I’m currently working on [Pangu](https://github.com/alisoft/pangu) & [Bootstrap Vue Plus](https://github.com/bootstrap-vue-plus)
-
-- 🌱 I’m currently learning **Swift**
-
-- 📫 How to reach me **hi@kimmy.me**
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
